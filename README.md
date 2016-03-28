@@ -1,2 +1,2 @@
 # rolling-back
-Testing the unbelievable *undo* abilities of git
+Testing th extreme *undo* abilities of git
